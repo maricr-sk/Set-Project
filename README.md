@@ -1,1 +1,2 @@
-# Set-Project
+# Set-Project-I
+Practice using hashsets 
